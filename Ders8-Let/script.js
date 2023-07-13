@@ -5,3 +5,4 @@ if (true){
     document.write(isim);
 }
  document.write(isim);
+ document.write(isim);
